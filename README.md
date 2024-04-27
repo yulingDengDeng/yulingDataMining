@@ -21,5 +21,8 @@
 ![image](https://github.com/yulingDengDeng/yulingDataMining/assets/168276268/1826fad2-7a2b-473a-996e-55648943997d)
 ![image](https://github.com/yulingDengDeng/yulingDataMining/assets/168276268/8d0208df-a195-4c94-b0e7-c15794e729b7)
 
-
+# **想要学习的技能**  
+1. 了解如何使用torch.Tensor的.backward()方法来自动计算梯度。  
+2. 了解如何将模型和数据迁移到GPU上（使用.to(device)）。  
+3. 如何在多个GPU之间分配计算任务。
 
